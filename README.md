@@ -1,9 +1,10 @@
 # Coding Projects
 
-In this github repo I will document my coding process on becoming a pro in numerical simulations using python.
+In this github repo I will document my coding process on becoming a pro in using python.
 
-Have fun trying these out yourself.
+Have fun trying some of these ideas out yourself. And let me know if u found a clever solution.
 
 ## Project list:
 
-- Pendulum
+- Manim Animations (work in progress)
+- Pendulum (not started)
