@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/3977891868_1614562192_223132457.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_3003690059_1856514711.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_1959358871_2043589090.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_1959358871_944098753.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_1946587227_2862621600.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_1959358871_1927174905.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_2156990425_302706859.mp4'
+file 'file:C:/Users/enriq/Documents/GitHubRepos/CodingProjects/Zeitstrahl_Manim/project/media/videos/scene/1080p60/partial_movie_files/Vectors/2852726489_1141282389_4272825830.mp4'
