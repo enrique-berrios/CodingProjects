@@ -7,4 +7,8 @@ Have fun trying some of these ideas out yourself. And let me know if u found a c
 ## Project list:
 
 - Manim Animations (work in progress)
-- Pendulum (not started)
+  > Zeitstrahl
+  > Kepplers Law
+  > Harmonischer Oszillator
+  > Pendulum (not started)
+
